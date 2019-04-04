@@ -1,6 +1,6 @@
 {
-  "domain": "wp-framework.dev",
-  "theme": "wp-framework",
+  "domain": "linecolor.local",
+  "theme": "wp-linecolor",
   "path": {
     "base": {
       "src":"assets/",
